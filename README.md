@@ -6,5 +6,5 @@ There were other similar classes so I combined the 3 and named it "para" as in p
 
 The classes were disorganized and in the wrong order and I rearranged it to my opinion as organized in accordance to the html.
 
-I changed many <div>'s into their respective section names.
-I used mainly <sections> but placed them within <Article> and <Aside>'s.
+I changed many div's into their respective section names.
+I used mainly sections but placed them within Article and Aside's.
